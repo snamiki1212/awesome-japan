@@ -4,12 +4,13 @@
 
 日本の Awesome リストです
 
-- Contriburation 大歓迎！
-  - 気軽に日本語で PR / Issue を作ってください 🦀
+- Contriburation 大歓迎です！ 気軽に日本語で PR / Issue を作ってください 🦀
 
-## 会社・企業
+## Contents
 
-### 技術
+### 会社・企業
+
+#### 技術
 
 日本で \_\_\_ を利用している会社一覧
 
@@ -22,23 +23,23 @@
 - [omiend/japanese-scala-companies](https://github.com/omiend/japanese-scala-companies) - 日本で Scala を利用している会社一覧
 - [yoshihiro503/japanese-ocaml-companies](https://github.com/yoshihiro503/japanese-ocaml-companies) - 日本で OCaml/ReasonML を利用している会社一覧
 - [svelte-jp/japanese-svelte-companies](https://github.com/svelte-jp/japanese-svelte-companies) - 日本で Svelte/SvelteKit を利用している会社一覧
+- [fumiya-kume/ai-in-japan](https://github.com/fumiya-kume/ai-in-japan) - 日本で AI 系開発ツールを利用している会社一覧
 
-### その他
+#### その他
 
 - [remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan) - Tech companies in Japan that hire remote workers.
 - [corocn/paternity-leave-in-japan](https://github.com/corocn/paternity-leave-in-japan) - 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
 - [btamada/jp-software-companies](https://github.com/btamada/jp-software-companies) - List of software companies in Japan for techies
 - [yamanoku/awesome-japanese-a11y-companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) - アクセシビリティに取り組む・推進している日本企業まとめ
-- [fumiya-kume/ai-in-japan](https://github.com/fumiya-kume/ai-in-japan) - AI 系開発ツールを導入している企業まとめ
 - [azu/company-introduction-jp](https://github.com/azu/company-introduction-jp) - 日本の会社紹介スライドのまとめ
 
-## 学習
+### 学習
 
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [mercari/engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - Engineer Vocabulary List in Japanese/English
 
-## その他
+### その他
 
 - [noracast/podcastfreaks.com](https://github.com/noracast/podcastfreaks.com) - 日本語テック系ポッドキャストまとめ
 - [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語 LLM まとめ - Overview of Japanese LLMs
@@ -46,6 +47,6 @@
 - [snamiki1212/awesome-tech-white-paper-ja](https://github.com/snamiki1212/awesome-tech-white-paper-ja) - 🕶 A curated list of awesome Japanese Tech white paper / 日本語で書かれたテック系白書
 - [tadashi0713/howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp) - 日本のソフトウェア企業のテスト・テスト自動化に関する資料まとめ
 
-# ライセンス
+## ライセンス
 
 MIT
