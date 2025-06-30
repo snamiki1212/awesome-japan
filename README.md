@@ -9,8 +9,6 @@
 
 ## 会社・企業
 
-日本の会社
-
 ### 技術
 
 日本で \_\_\_ を利用している会社一覧
@@ -27,6 +25,7 @@
 
 ### その他
 
+- [remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan) - Tech companies in Japan that hire remote workers.
 - [corocn/paternity-leave-in-japan](https://github.com/corocn/paternity-leave-in-japan) - 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
 - [btamada/jp-software-companies](https://github.com/btamada/jp-software-companies) - List of software companies in Japan for techies
 - [yamanoku/awesome-japanese-a11y-companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) - アクセシビリティに取り組む・推進している日本企業まとめ
