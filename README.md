@@ -10,8 +10,6 @@
 
 ### 会社・企業
 
-#### 技術
-
 日本で \_\_\_ を利用している会社一覧
 
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
