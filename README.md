@@ -53,14 +53,15 @@
 - [vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org) - :jp: Japanese translation for vuejs.org
 - [angular/angular-ja](https://github.com/angular/angular-ja) - repository for Japanese localization of angular.dev
 
-### lib/packages
+### ライブラリ・サービスソース
 - [liaoziyang/negapoji](https://github.com/liaoziyang/negapoji) - Japanese negative positive classification.日本語文書のネガポジを判定。
 - [Lalcs/jpholiday](https://github.com/Lalcs/jpholiday) - 日本の祝日を取得するライブラリ
 - [niiyz/JapanCityGeoJson](https://github.com/niiyz/JapanCityGeoJson) - GeoJson of Japanese cities. and TopoJson.
 - [kha-white/manga-ocr](https://github.com/kha-white/manga-ocr) - Optical character recognition for Japanese text, with the main focus being Japanese manga
 - [geolonia/japanese-addresses](https://github.com/geolonia/japanese-addresses) - 全国の町丁目レベル（277,191件）の住所データのオープンデータ
+- [Code-for-SAKE/Sakepedia-Nuxt](https://github.com/Code-for-SAKE/Sakepedia-Nuxt) - 日本酒オープンデータSakepediaのNuxt版
 
-### その他
+### リソース
 
 - [noracast/podcastfreaks.com](https://github.com/noracast/podcastfreaks.com) - 日本語テック系ポッドキャストまとめ
 - [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語 LLM まとめ - Overview of Japanese LLMs
@@ -69,9 +70,6 @@
 - [tadashi0713/howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp) - 日本のソフトウェア企業のテスト・テスト自動化に関する資料まとめ
 - [mochi-sann/awesome-japanese-fonts](https://github.com/mochi-sann/awesome-japanese-fonts) - 素晴らしい日本語フォントの一覧です
 - [japan-opendata/awesome-plateau](https://github.com/japan-opendata/awesome-plateau) - 国土交通省 Project PLATEAU の関連情報や事例のまとめ
-- [Code-for-SAKE/Sakepedia-Nuxt](https://github.com/Code-for-SAKE/Sakepedia-Nuxt) - 日本酒オープンデータSakepediaのNuxt版
-
-
 
 ## ライセンス
 
