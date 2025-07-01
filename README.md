@@ -23,6 +23,7 @@
 - [omiend/japanese-scala-companies](https://github.com/omiend/japanese-scala-companies) - 日本で Scala を利用している会社一覧
 - [yoshihiro503/japanese-ocaml-companies](https://github.com/yoshihiro503/japanese-ocaml-companies) - 日本で OCaml/ReasonML を利用している会社一覧
 - [svelte-jp/japanese-svelte-companies](https://github.com/svelte-jp/japanese-svelte-companies) - 日本で Svelte/SvelteKit を利用している会社一覧
+- [kpango/japanese-go-companies](https://github.com/kpango/japanese-go-companies) - 日本で Go言語 を利用している会社一覧
 - [fumiya-kume/ai-in-japan](https://github.com/fumiya-kume/ai-in-japan) - 日本で AI 系開発ツールを利用している会社一覧
 
 #### その他
