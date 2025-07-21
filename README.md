@@ -4,7 +4,9 @@
 
 日本の Awesome リストです
 
-- Contriburation 大歓迎です！ 気軽に日本語で PR / Issue を作ってください 🦀
+> [!TIP]
+> コントリビューション大歓迎です！
+> 気軽に日本語で [PR / Issue](https://github.com/snamiki1212/awesome-japan/issues) を作ってください 🦀
 
 ## GitHub Awesome List
 
