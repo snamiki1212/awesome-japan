@@ -72,6 +72,22 @@
 - <img src="https://img.shields.io/github/stars/mochi-sann/awesome-japanese-fonts.svg?style=social" alt="GitHub stars"> [mochi-sann/awesome-japanese-fonts](https://github.com/mochi-sann/awesome-japanese-fonts) - 素晴らしい日本語フォントの一覧です
 - <img src="https://img.shields.io/github/stars/japan-opendata/awesome-plateau.svg?style=social" alt="GitHub stars"> [japan-opendata/awesome-plateau](https://github.com/japan-opendata/awesome-plateau) - 国土交通省 Project PLATEAU の関連情報や事例のまとめ
 
+## Tech Awesome List
+
+### ナレッジ
+
+- [Qiita](https://qiita.com)
+- [Zennn](https://zenn.dev/)
+
+### イベント
+
+- [Connpass](https://connpass.com/)
+- [Doorkeeper](https://www.doorkeeper.jp/)
+
+## 行政機関
+
+- [行政機関一覧](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%96%A2)
+
 ## LICENSE
 
 MIT
